@@ -1,0 +1,46 @@
+h1 {
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+h2 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+.ingredients {
+    text-align: center;
+}
+
+.ingredients ul {
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+}
+
+.ingredients li {
+    padding: 5px 5px;
+    border: 1px solid black;
+}
+
+.how-to {
+    text-align: center;
+}
+
+.how-to ol {
+    text-align: left;
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+}
+
+.how-to li {
+    padding: 5px 5px;
+}
