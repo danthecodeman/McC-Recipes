@@ -2,8 +2,19 @@ h1 {
     text-align: center;
 }
 
-ul{
+.recipes {
+    text-align: center;
+}
+
+.recipes ul {
     text-align: left;
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+}
+
+.recipes li {
+    padding: 5px 5px;
 }
 
 a {
